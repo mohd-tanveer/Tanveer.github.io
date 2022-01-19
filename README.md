@@ -44,8 +44,8 @@ TechnologyStack: Micro services Java8 Java11 Spring-Boot Spring framework 5 spri
                  Couchbase Swagger JSON Docker Kubernetes Openshift Helm Jenkins Kafka Elastic search Git bit-bucket
                  IntelliJ IDEA Postman Tomcat Maven Swagger codegen Jacoco
 
-Software Engineer
-Employer : Tata Consultancy Services (TCS)
+<h2>Software Engineer<h2>
+<b>Employer : Tata Consultancy Services (TCS)</b>
 Client : ING BANK NETHERLANDS
 Projects
 
@@ -97,10 +97,10 @@ TechnologyStack: Monolithic, java7, jdbc, My Batis, spring, Struts, Hibernate, j
 </ul>
   
 <br>
-</h2>EDUCATION</h2>
-    2014–2018: Bachelor of Engineer in Computer Science, 8.04 CGPA, Rizvi College of Engineering,University of Mumbai
-    2012–2014:  Intermediate/+2, 71.33%, Maharashtra State Board
-    2012:       Matriculation , 82.73%, Maharashtra State Board
+<h2>EDUCATION</h2>
+    <p> &nbsp&nbsp&nbsp&nbsp 2014–2018:&nbsp&nbsp Bachelor of Engineer in Computer Science, 8.04 CGPA, Rizvi College of Engineering,University of Mumbai </p> <br>
+    <p>&nbsp&nbsp&nbsp&nbsp 2012–2014:&nbsp&nbsp Intermediate/+2, 71.33%, Maharashtra State Board  </p>  <br>
+    <p>&nbsp&nbsp&nbsp&nbsp 2012:&nbsp&nbsp     Matriculation , 82.73%, Maharashtra State Board    <p> <br>
 
 <h2>CERTIFICATIONS</2>
 <ul>
