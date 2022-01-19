@@ -24,9 +24,10 @@ OS:         Windows 10, Linux Redhat, Linux Centos
 
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
-Software Developer
-Employer : Amdocs
-Project : Order Capture(R&D) (September 2021 – Ongoing)
+Software Developer<br>
+Employer : Amdocs <br>
+
+Project : Order Capture(R&D) (September 2021 – Ongoing) <br>
 
 <p>The DigitalONE order capture (commerce) solution provides a set of value-based, self-contained business functions that enable the
 consumers, such as the Self Service portal or Call Center application, to drive a specific flow for capturing an order. It has Business
@@ -45,15 +46,16 @@ TechnologyStack: Micro services Java8 Java11 Spring-Boot Spring framework 5 spri
                  IntelliJ IDEA Postman Tomcat Maven Swagger codegen Jacoco
 
 <h2>Software Engineer</h2>
-Employer : Tata Consultancy Services (TCS)
+Employer : Tata Consultancy Services (TCS) <br>
 Client : ING BANK NETHERLANDS <br>
 Projects <br>
-Risk Rating (March 2020 – August 2021) 
+
+Risk Rating (March 2020 – August 2021) <br>
 
 Risk Rating/Risk Rater is Responsible for Creating Ratings for all its new and existing customer’s which helps ING to know the Proba-
 bility of default of its customer, There are different ways of creating ratings through the various process which helps ING to take better
 decision and understand its customers
-
+<br>
 <ul>
   <li>Transforming traditional(monolithic architecture) java application developed with struts, jsp, dojo, and Old J2EE with micro-
 services based architecture.</li>
@@ -62,12 +64,12 @@ services based architecture.</li>
   <li>Deploy the image of the container-based application using docker and Kubernetes with Openshift CLI.</li>
   <li>Follow Agile Methodology</li>
 </ul>
-
+<br>
 TechnologyStack: Rest-API, Java8, Java11, Spring-Boot, Spring framework, Spring MVC, spring Hateous, Spring data JPA,
 Junit5, Lombok, Mockito, ArchUnit, Jacoco, CheckStyle, PMD, Pl/sql, Oracle, Swagger, JSON, Docker,
 Kubernetes, Openshift, Helm, Azure, Git, IntelliJ IDEA, Postman, Tomcat, Oracle sql Developer, Maven, Checkmarks
 
-
+<br>
 Risk Rater (December 2018 – March 2020)
 
 <ul>
@@ -83,9 +85,9 @@ TechnologyStack: Monolithic, java7, jdbc, My Batis, spring, Struts, Hibernate, j
                  CSS3, DOJO, MQ, XML, Jenkins, Shell, script, Gitlab, Eclipse IDE, IBM WebShphere, Wasmon, Opengrok,
                  Checkmarks, junit4, Selenium, ServiceNow, confluence, maven, oracle, sql developer
 
-<h2>LANGUAGES<h2/>
-English : Mother Tongue <br>
-Hindi   : Fluent
+<h2>LANGUAGES</h2>
+  English : Mother Tongue <br>
+  Hindi   : Fluent
   
 <br>
 <h2>INTERESTS</h2>
