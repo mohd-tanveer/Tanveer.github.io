@@ -99,9 +99,11 @@ TechnologyStack: Monolithic, java7, jdbc, My Batis, spring, Struts, Hibernate, j
   
 <br>
 <h2>EDUCATION</h2>
-    2014–2018:   Bachelor of Engineer in Computer Science, 8.04 CGPA, Rizvi College of Engineering,University of Mumbai <br>
+<p>
+    2014–2018:   Bachelor of Engineer in Computer Science, 8.04 CGPA, Rizvi College of Engineering,University of Mumbai
     2012–2014:  Intermediate/+2, 71.33%, Maharashtra State Board <br>
     2012:       Matriculation , 82.73%, Maharashtra State Board  <br>
+</p>
 
 <h2>CERTIFICATIONS</h2>
 <ul>
