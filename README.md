@@ -45,7 +45,7 @@ TechnologyStack: Micro services Java8 Java11 Spring-Boot Spring framework 5 spri
                  Couchbase Swagger JSON Docker Kubernetes Openshift Helm Jenkins Kafka Elastic search Git bit-bucket
                  IntelliJ IDEA Postman Tomcat Maven Swagger codegen Jacoco
 
-<b>Software Engineer</b>
+<b>Software Engineer</b> </br>
 Employer : Tata Consultancy Services (TCS) <br>
 Client : ING BANK NETHERLANDS <br>
 Projects <br>
