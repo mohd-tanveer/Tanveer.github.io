@@ -86,8 +86,8 @@ TechnologyStack: Monolithic, java7, jdbc, My Batis, spring, Struts, Hibernate, j
 
 <h2>LANGUAGES<h2/>
   
-<p English : Mother Tongue /><br>
-<p Hindi   : Fluent />
+<p> English : Mother Tongue <p/><br>
+<p> Hindi   : Fluent<p/>
 <br>
 <h2>INTERESTS</h2>
   <ul>
@@ -98,7 +98,7 @@ TechnologyStack: Monolithic, java7, jdbc, My Batis, spring, Struts, Hibernate, j
   
 <br>
 </h2>EDUCATION</h2>
-    <2014–2018: Bachelor of Engineer in Computer Science, 8.04 CGPA, Rizvi College of Engineering,University of Mumbai
+    2014–2018: Bachelor of Engineer in Computer Science, 8.04 CGPA, Rizvi College of Engineering,University of Mumbai
     2012–2014:  Intermediate/+2, 71.33%, Maharashtra State Board
     2012:       Matriculation , 82.73%, Maharashtra State Board
 
