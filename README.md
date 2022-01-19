@@ -45,11 +45,10 @@ TechnologyStack: Micro services Java8 Java11 Spring-Boot Spring framework 5 spri
                  IntelliJ IDEA Postman Tomcat Maven Swagger codegen Jacoco
 
 <h2>Software Engineer<h2>
-<b>Employer : Tata Consultancy Services (TCS)</b>
-Client : ING BANK NETHERLANDS
-Projects
-
-Risk Rating (March 2020 – August 2021)
+<p><b>Employer : Tata Consultancy Services (TCS) <br>
+Client : ING BANK NETHERLANDS <br>
+Projects <br>
+Risk Rating (March 2020 – August 2021) </b></p>
 
 Risk Rating/Risk Rater is Responsible for Creating Ratings for all its new and existing customer’s which helps ING to know the Proba-
 bility of default of its customer, There are different ways of creating ratings through the various process which helps ING to take better
@@ -86,8 +85,8 @@ TechnologyStack: Monolithic, java7, jdbc, My Batis, spring, Struts, Hibernate, j
 
 <h2>LANGUAGES<h2/>
   
-<p> English : Mother Tongue <p/><br>
-<p> Hindi   : Fluent<p/>
+English : Mother Tongue
+Hindi   : Fluent
   
 <br>
 <h2>INTERESTS</h2>
@@ -99,9 +98,9 @@ TechnologyStack: Monolithic, java7, jdbc, My Batis, spring, Struts, Hibernate, j
   
 <br>
 <h2>EDUCATION</h2>
-    <p> &nbsp&nbsp&nbsp&nbsp 2014–2018:&nbsp&nbsp Bachelor of Engineer in Computer Science, 8.04 CGPA, Rizvi College of Engineering,University of Mumbai </p> <br>
-    <p>&nbsp&nbsp&nbsp&nbsp 2012–2014:&nbsp&nbsp Intermediate/+2, 71.33%, Maharashtra State Board  </p>  <br>
-    <p>&nbsp&nbsp&nbsp&nbsp 2012:&nbsp&nbsp     Matriculation , 82.73%, Maharashtra State Board    <p> <br>
+    <p>2014–2018: Bachelor of Engineer in Computer Science, 8.04 CGPA, Rizvi College of Engineering,University of Mumbai</p>
+    <p> 2012–2014:&nbsp&nbsp Intermediate/+2, 71.33%, Maharashtra State Board </p>  
+    <p> 2012:&nbsp&nbsp     Matriculation , 82.73%, Maharashtra State Board <p> 
 
 <h2>CERTIFICATIONS<h2/>
 <ul>
