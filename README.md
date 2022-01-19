@@ -1,9 +1,11 @@
-A passionate software engineer having more than 3 years of experience in developing web applications in banking & financial
+<h2>Portfolio</h2>
+
+<p>A passionate software engineer having more than 3 years of experience in developing web applications in banking & financial
 services and telecommunication domains, Having a strong commitment towards contributing to the organizations at my best,
-and A great Attitude towards Learning new tech and adapting to the benefit of the organization.
+and A great Attitude towards Learning new tech and adapting to the benefit of the organization.</p>
 
 
-� TECHNICAL SKILLS
+<h2>TECHNICAL SKILLS</h2>
 Programming Language Experienced : Java7, Java8, Java11, JavaEE, Shell script, PL/SQL
 Familiar : Python, C, LaTex, HTML, CSS
 
@@ -76,10 +78,12 @@ CSS3, DOJO, MQ, XML, Jenkins, Shell, script, Gitlab, Eclipse IDE, IBM WebShphere
 Checkmarks, junit4, Selenium, ServiceNow, confluence, maven, oracle, sql developer
 
 � LANGUES
+
 English ○ ○ ○ ○ ○
 Hindi ○ ○ ○ ○ ○
 
 + INTERESTS
+
 ∠ Problem solving
 ∠ Stocks
 ∠ Listening Music
