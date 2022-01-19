@@ -88,6 +88,7 @@ TechnologyStack: Monolithic, java7, jdbc, My Batis, spring, Struts, Hibernate, j
   
 <p> English : Mother Tongue <p/><br>
 <p> Hindi   : Fluent<p/>
+  
 <br>
 <h2>INTERESTS</h2>
   <ul>
@@ -102,7 +103,7 @@ TechnologyStack: Monolithic, java7, jdbc, My Batis, spring, Struts, Hibernate, j
     <p>&nbsp&nbsp&nbsp&nbsp 2012–2014:&nbsp&nbsp Intermediate/+2, 71.33%, Maharashtra State Board  </p>  <br>
     <p>&nbsp&nbsp&nbsp&nbsp 2012:&nbsp&nbsp     Matriculation , 82.73%, Maharashtra State Board    <p> <br>
 
-<h2>CERTIFICATIONS</2>
+<h2>CERTIFICATIONS<h2/>
 <ul>
   <li>MTA : Security fundamentals certified, issued by Microsoft</li>
   <li>Certificate in Java basic and intermediate issued by hacker rank</li>
