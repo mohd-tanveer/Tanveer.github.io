@@ -24,7 +24,7 @@ OS:         Windows 10, Linux Redhat, Linux Centos
 
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
-Software Developer<br>
+<b>Software Developer</b><br>
 Employer : Amdocs <br>
 
 Project : Order Capture(R&D) (September 2021 – Ongoing) <br>
@@ -45,7 +45,7 @@ TechnologyStack: Micro services Java8 Java11 Spring-Boot Spring framework 5 spri
                  Couchbase Swagger JSON Docker Kubernetes Openshift Helm Jenkins Kafka Elastic search Git bit-bucket
                  IntelliJ IDEA Postman Tomcat Maven Swagger codegen Jacoco
 
-<h2>Software Engineer</h2>
+<b>Software Engineer</b>
 Employer : Tata Consultancy Services (TCS) <br>
 Client : ING BANK NETHERLANDS <br>
 Projects <br>
