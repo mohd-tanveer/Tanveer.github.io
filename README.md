@@ -1,28 +1,29 @@
-<h2>Portfolio</h2>
+<h2>PORTFOLIO</h2>
 
-<p>A passionate software engineer having more than 3 years of experience in developing web applications in banking & financial
+<it>A passionate software engineer having more than 3 years of experience in developing web applications in banking & financial
 services and telecommunication domains, Having a strong commitment towards contributing to the organizations at my best,
-and A great Attitude towards Learning new tech and adapting to the benefit of the organization.</p>
+and A great Attitude towards Learning new tech and adapting to the benefit of the organization.</it>
 
 
 <h2>TECHNICAL SKILLS</h2>
-Programming Language Experienced : Java7, Java8, Java11, JavaEE, Shell script, PL/SQL
-Familiar : Python, C, LaTex, HTML, CSS
+Programming Language
+  Experienced : Java7, Java8, Java11, JavaEE, Shell script, PL/SQL
+  Familiar : Python, C, LaTex, HTML, CSS
 
-Frameworks Spring Boot, Spring Framework, Spring AOP , Spring Data Jpa, Spring Cloud, Spring-Hateoas,
-Junit4, Junit5, Mockito, Archunit, Lombok, ModelMapper/MapStruct, Jacoco, CheckStyle,
-Swagger, JSON, Maven, Gradle
+Frameworks: Spring Boot, Spring Framework, Spring AOP , Spring Data Jpa, Spring Cloud, Spring-Hateoas,
+            Junit4, Junit5, Mockito, Archunit, Lombok, ModelMapper/MapStruct, Jacoco, CheckStyle,
+            Swagger, JSON, Maven, Gradle
 
-CI/CD Docker, Kubernetes, Openshift, Microsoft Azure Pipeline, Jenkins, Helm
-development tools Git , IntelliJ IDEA, Eclipse, Oracle Sql Developer, Gitlab/Github/bit-bucket, Jira, Confluence,
-Postman, ServiceNow, Microsoft Azure Board, Opengrok
+CI/CD:      Docker, Kubernetes, Openshift, Microsoft Azure Pipeline, Jenkins, Helm
+            development tools Git , IntelliJ IDEA, Eclipse, Oracle Sql Developer, Gitlab/Github/bit-bucket, Jira, Confluence,
+            Postman, ServiceNow, Microsoft Azure Board, Opengrok
 
-Middleware Apache Tomcat , Websphere Application Server (WASMON)
+Middleware: Apache Tomcat , Websphere Application Server (WASMON)
 
-Operating System Windows 10, Linux Redhat, Linux Centos
+OS:         Windows 10, Linux Redhat, Linux Centos
 
 
-� PROFESSIONAL EXPERIENCE
+<a href=""/> <h2>PROFESSIONAL EXPERIENCE</h2>
 Software Developer
 Employer : Amdocs
 Project : Order Capture(R&D) (September 2021 – Ongoing)
@@ -37,10 +38,10 @@ Product Inventory Management, Promotion, Stock Management, Number Portability
 ∠ Solve production issues and provide support to the accounts.
 
 TechnologyStack: Micro services Java8 Java11 Spring-Boot Spring framework 5 spring cloud Junit5 Mockito
-Couchbase Swagger JSON Docker Kubernetes Openshift Helm Jenkins Kafka Elastic search Git bit-bucket
-IntelliJ IDEA Postman Tomcat Maven Swagger codegen Jacoco
+                 Couchbase Swagger JSON Docker Kubernetes Openshift Helm Jenkins Kafka Elastic search Git bit-bucket
+                 IntelliJ IDEA Postman Tomcat Maven Swagger codegen Jacoco
 
-� Software Engineer
+Software Engineer
 Employer : Tata Consultancy Services (TCS)
 Client : ING BANK NETHERLANDS
 Projects
@@ -74,26 +75,26 @@ tion.
 ∠ Follow Agile Methodology
 
 TechnologyStack: Monolithic, java7, jdbc, My Batis, spring, Struts, Hibernate, jsp, Java script, Pl/sql, HTML5,
-CSS3, DOJO, MQ, XML, Jenkins, Shell, script, Gitlab, Eclipse IDE, IBM WebShphere, Wasmon, Opengrok,
-Checkmarks, junit4, Selenium, ServiceNow, confluence, maven, oracle, sql developer
+                 CSS3, DOJO, MQ, XML, Jenkins, Shell, script, Gitlab, Eclipse IDE, IBM WebShphere, Wasmon, Opengrok,
+                 Checkmarks, junit4, Selenium, ServiceNow, confluence, maven, oracle, sql developer
 
-� LANGUES
+<a href=""/><h2> LANGUAGES <h2/>
 
 English ○ ○ ○ ○ ○
 Hindi ○ ○ ○ ○ ○
 
-+ INTERESTS
+<h2>INTERESTS</h2>
 
 ∠ Problem solving
 ∠ Stocks
 ∠ Listening Music
 
-� EDUCATION
+</h2>EDUCATION</h2>
 2014–2018 Bachelor of Engineer in Computer Science, 8.04 CGPA, Rizvi College of Engineering,University of Mumbai
 2012–2014 Intermediate/+2, 71.33%, Maharashtra State Board
 2012 Matriculation , 82.73%, Maharashtra State Board
 
-� CERTIFICATIONS
+<h2>CERTIFICATIONS</2>
 ∠ MTA : Security fundamentals certified, issued by Microsoft
 ∠ Certificate in Java basic and intermediate issued by hacker rank
 ∠ Certificate in Python Basic and intermediate issued by Hacker rank
