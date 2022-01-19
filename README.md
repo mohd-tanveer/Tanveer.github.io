@@ -6,9 +6,9 @@ and A great Attitude towards Learning new tech and adapting to the benefit of th
 
 <br>
 <h2>TECHNICAL SKILLS</h2>
-Programming Language <br>
-  Experienced : Java7, Java8, Java11, JavaEE, Shell script, PL/SQL <br>
-  Familiar : Python, C, LaTex, HTML, CSS
+<b>Programming Language</b> <br>
+<p>   <it>Experienced :</it>  Java7, Java8, Java11, JavaEE, Shell script, PL/SQL </p><br>
+<p>   <it>Familiar :</it>     Python, C, LaTex, HTML, CSS </p>
 
 Frameworks: Spring Boot, Spring Framework, Spring AOP , Spring Data Jpa, Spring Cloud, Spring-Hateoas,
             Junit4, Junit5, Mockito, Archunit, Lombok, ModelMapper/MapStruct, Jacoco, CheckStyle,
