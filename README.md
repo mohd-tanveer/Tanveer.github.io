@@ -44,7 +44,7 @@ TechnologyStack: Micro services Java8 Java11 Spring-Boot Spring framework 5 spri
                  Couchbase Swagger JSON Docker Kubernetes Openshift Helm Jenkins Kafka Elastic search Git bit-bucket
                  IntelliJ IDEA Postman Tomcat Maven Swagger codegen Jacoco
 
-<h2>Software Engineer<h2>
+<h2>Software Engineer</h2>
 Employer : Tata Consultancy Services (TCS)
 Client : ING BANK NETHERLANDS <br>
 Projects <br>
@@ -105,7 +105,7 @@ Hindi   : Fluent
 <ul>
   <li>MTA : Security fundamentals certified, issued by Microsoft</li>
   <li>Certificate in Java basic and intermediate issued by hacker rank</li>
-  <li>Certificate in Python Basic and intermediate issued by Hacker rank</li>
+  li>Certificate in Python Basic and intermediate issued by Hacker rank</li>
 </ul>
 
 
