@@ -109,7 +109,7 @@ TechnologyStack: Monolithic, java7, jdbc, My Batis, spring, Struts, Hibernate, j
 <ul>
   <li>MTA : Security fundamentals certified, issued by Microsoft</li>
   <li>Certificate in Java basic and intermediate issued by hacker rank</li>
-  li>Certificate in Python Basic and intermediate issued by Hacker rank</li>
+  <li>Certificate in Python Basic and intermediate issued by Hacker rank</li>
 </ul>
 
 
