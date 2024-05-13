@@ -1,8 +1,6 @@
 <h2>PORTFOLIO</h2>
 
-<it>A passionate software engineer having more than 3 years of experience in developing web applications in banking & financial
-services and telecommunication domains, Having a strong commitment towards contributing to the organizations at my best,
-and A great Attitude towards Learning new tech and adapting to the benefit of the organization.</it>
+<it>Experienced software engineer with 5+ years experience in banking, financial services, and telecommunications. Committed to delivering excellence and thriving in dynamic environments. Possesses a strong sense of ownership, leveraging cutting-edge technology for innovative solutions. Analytical mindset, effective communicator, and collaborative team player driven by honesty, responsibility, and ambition..</it>
 
 <br>
 <h2>TECHNICAL SKILLS</h2>
@@ -10,9 +8,9 @@ and A great Attitude towards Learning new tech and adapting to the benefit of th
     &emsp;<i>Experienced :</i>  Java7, Java8, Java11, JavaEE, Shell script, PL/SQL <br>
     &emsp;<i>Familiar :</i>     Python, C, LaTex, HTML, CSS </p>
 
-Frameworks: Spring Boot, Spring Framework, Spring AOP , Spring Data Jpa, Spring Cloud, Spring-Hateoas,
-            Junit4, Junit5, Mockito, Archunit, Lombok, ModelMapper/MapStruct, Jacoco, CheckStyle,
-            Swagger, JSON, Maven, Gradle
+Frameworks: Spring webflux,Spring Boot, Spring Framework, Spring AOP,
+            Spring Data Jpa, Spring Cloud, Spring-Hateoas, Junit4, Junit5, Mockito, Archunit, Lombok, ModelMapper/MapStruct, Jacoco, 
+            CheckStyle, Swagger, JSON, Maven, Gradle,BDD,TDD
 
 CI/CD:      Docker, Kubernetes, Openshift, Microsoft Azure Pipeline, Jenkins, Helm
             development tools Git , IntelliJ IDEA, Eclipse, Oracle Sql Developer, Gitlab/Github/bit-bucket, Jira, Confluence,
@@ -21,6 +19,8 @@ CI/CD:      Docker, Kubernetes, Openshift, Microsoft Azure Pipeline, Jenkins, He
 Middleware: Apache Tomcat , Websphere Application Server (WASMON)
 
 OS:         Windows 10, Linux Redhat, Linux Centos
+
+Cloud:  Aws, Aws-lambda, Aws-EKS, AWS-services,step function, glue job
 
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
